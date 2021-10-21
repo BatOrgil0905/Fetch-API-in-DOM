@@ -1,0 +1,26 @@
+
+[
+    {
+        "name": "BatOrgil",
+        "age": 19,
+        "isStudent": true,
+        "hobbies": ["video games",  "cooking",  "writing"],
+        "languages":["Mongolia",  "English",  "Russia",  "German"]
+    },
+    {
+        "name": "Kim",
+        "age": 33,
+        "isStudent": false,
+        "hobbies": ["shopping",  "designing",  "sketching",  "sewing"],
+        "languages": ["English",  "French",  "Spanish",  "Italy"]
+
+    },
+    {
+        "name": "Sam",
+        "age": 24,
+        "isStudent": true,
+        "hobbies": ["observating",  "music",  "bowling",  "cleaning"],
+        "languages": ["English",  "Chinese",  "Portugese",  "Spanish"]
+        
+    }
+]

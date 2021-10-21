@@ -1,0 +1,39 @@
+body{
+    margin:1rem;
+    font-family: consolas;
+}
+button{
+    position: relative;
+    margin: 0.5em 1.5em ;
+    padding: 0.8em 2.2em;
+    cursor: pointer;
+    background: #00d9ff;
+    color: "#03e9f4";
+    text-align: center;
+    border: 3px solid;
+    border-radius: .8em;
+    font-size: 13px;
+    font-weight: 300;
+    font-family: "consolas";
+    transition: all ease 0.3s;
+}
+button:hover{
+    transform: scale(1) translateY(1px);
+    border: 2px solid;
+    background: #03b7d6;
+}
+
+ul{
+    list-style-type: none;
+    padding:2px;
+    width:400px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: #eeeeee;
+    border: .5px solid;
+    display: flex;
+}
+li {
+	padding: 1px 5px;
+	border-right: 1px solid black;
+   }
